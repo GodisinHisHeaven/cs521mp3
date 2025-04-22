@@ -1,0 +1,3 @@
+/Users/mingjunliu/Developer/cs521/mp3/part1_cpp_ad/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/mingjunliu/Developer/cs521/mp3/part1_cpp_ad/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/mingjunliu/Developer/cs521/mp3/part1_cpp_ad/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
